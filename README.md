@@ -1,90 +1,121 @@
-# 👋 Hi, I'm Masa (masakaneko)
+# Hi, I'm Masa
 
-> 🧑‍💻 AI Developer | 🤖 Embedded Systems Enthusiast | 🌸 Japan-based
-> 
-> _“Code is poetry. I write to connect systems, and sometimes, to heal hearts.”_
+**Data Analyst / Data Engineer | AI and Embedded Systems Developer | Japan-based**
 
----
+I work on data engineering, analytics workflows, and internal tools in the automotive data domain. My interests include data pipeline design, applied machine learning, AI agents, embedded systems, and human-centered technology.
 
-## 🧠 Who Am I?
-
-I'm a multilingual (🇯🇵 🇵🇭 🇺🇸) developer based in Shizuoka, Japan. By day, I analyze data and debug internal tools for a major automotive company. By night, I explore AI, embedded systems, and futuristic human-computer interaction — one line of Python at a time.
-
-- 🏡 Building a **smart home system** with Raspberry Pi, STM32, voice AI, and local automation
-- 💬 Creating an **emotionally responsive therapist AI** that listens, reflects, and grows with the user
-- 🧱 Designing modular AI agents with real-time memory, search, and context tracking
+I focus on building systems that are reliable, understandable, and useful in real-world contexts.
 
 ---
 
-## 🔧 Technologies & Tools I Use
+## About Me
 
-| Area | Tools |
-|------|-------|
-| **Languages** | Python, C, C++, Shell |
-| **AI/ML** | Hugging Face, PyTorch, Scikit-learn, Transformers |
-| **Embedded** | Raspberry Pi 4, STM32 (CubeIDE), HC-12, ESP-01 |
-| **Cloud** | Google Cloud (GCE, Vertex AI, GCS), GitHub Actions |
-| **Others** | Git, VS Code, FastAPI, Markdown, YAML, Git LFS |
+I am a multilingual developer and analyst based in Japan, working across English, Japanese, and Tagalog.
 
----
+My professional work focuses on data processing, log analysis, ETL pipelines, dashboard support, and improving data quality for analysis. Outside of work, I explore AI systems, local automation, embedded development, and tools that combine software, hardware, and user context.
 
-## 📂 Featured Projects
+I am especially interested in projects that connect:
 
-### 🧠 Language & Emotion Model
-A dialogue model trained on custom data that captures nuance, tone, and personality traits.  
-It dynamically adapts based on user input patterns and remembered context.
-
-### 🗣️ Expressive Text Segmentation
-A tool for breaking down text into natural speech units to simulate emotional pauses and flow.  
-Useful for downstream TTS or voice-over applications.
-
-### 🔍 Lightweight Intent Engine
-A classifier that identifies layered user intents across domains using compact transformers.  
-Optimized for fast inference and real-time integration with voice or action triggers.
-
-### 🧠 Home Hub using Raspberry Pi
-- Autonomous agent on Raspberry Pi with STM32 control layer and modular AI stack.
-- Real-time environmental awareness and embedded task execution.
+* Data engineering and analytics
+* AI agents with memory and context awareness
+* Embedded systems and edge devices
+* Human-centered software design
+* Clear documentation for technical and non-technical users
 
 ---
 
-## 📈 My Goals for 2025
+## Technologies and Tools
 
-- 🔬 Master traditional ML techniques and align them with RAG/transformer workflows
-- 🧩 Build a **modular AI SDK** for autonomous agent behavior
-- ⚙️ Fully integrate STM32 + Raspberry Pi into an e-paper dashboard system
-- 📡 Explore offline-first AI deployment with Google Coral
-- ✍️ Document every learning in English, Japanese, and Tagalog
-
----
-
-## 📚 Learning Areas
-
-- ✅ Memory-efficient inference for edge devices
-- ✅ Dataset structuring and labeling best practices
-- 🚧 Real-time sentiment feedback loops
-- 🚧 Agent-to-agent protocol design
-- 🚧 Cloud-native AI deployment pipelines
+| Area                          | Tools                                                           |
+| ----------------------------- | --------------------------------------------------------------- |
+| Languages                     | Python, SQL, C, C++, Shell                                      |
+| Data and Analytics            | PySpark, Databricks, Delta Lake, Pandas, Tableau                |
+| AI and Machine Learning       | Hugging Face, PyTorch, Scikit-learn, Transformers, RAG concepts |
+| Backend and Development Tools | FastAPI, Git, GitHub Actions, VS Code, Markdown, YAML           |
+| Embedded and Edge Systems     | Raspberry Pi, STM32, CubeIDE, ESP modules                       |
+| Cloud                         | Google Cloud, Vertex AI, GCS, Compute Engine                    |
 
 ---
 
-## 📫 Let's Connect
+## Main Project Areas
 
-- 📧 [Email](mailto:maril_flores@outlook.com)
-- 🧪 [GitHub Repos](https://github.com/masakaneko?tab=repositories)
-- 🎮 [Side Projects + Research Logs] _(coming soon)_
-- 💬 Open to collaboration, feedback, and ideas 🌍
+### Data Pipeline and Log Analysis
 
----
+I work with large-scale vehicle log data, ETL workflows, session-based analysis, data cleaning, deduplication, and dashboard-ready aggregation.
 
-### ⚡ Fun Fact
-
-> I believe in creating machines that **feel** — not just compute.  
-> My ideal AI doesn't just respond. It **remembers**, **adapts**, and **cares**.
+My focus is on creating data structures that are consistent, traceable, and useful for downstream analysis and reporting.
 
 ---
 
-🌱 _This GitHub profile grows as I grow. If you’re reading this, you’re part of the journey._
+### AI Dialogue and Context Systems
 
-※This profile was generated with the help of AI.
+I am developing personal AI research projects focused on natural dialogue, memory, emotional context, and adaptive responses.
 
+The goal is to explore how AI systems can respond with better context awareness, clearer intent handling, and more consistent interaction patterns.
+
+---
+
+### Text Processing for Voice Interaction
+
+I work on tools for segmenting text into more natural speech units for text-to-speech and voice-based interfaces.
+
+This includes improving pacing, pause placement, readability, and downstream usability for speech generation systems.
+
+---
+
+### Lightweight Intent Classification
+
+I am building compact intent-classification workflows for identifying user requests, commands, and contextual goals.
+
+These systems are designed for possible integration with voice assistants, local agents, and automation workflows.
+
+---
+
+### Local Automation and Edge Systems
+
+I explore local-first systems that combine embedded devices, automation logic, and AI-assisted interaction.
+
+The focus is on practical experimentation with edge computing, device control, and offline-capable workflows.
+
+---
+
+## Current Focus
+
+* Strengthening data engineering and analytics workflows
+* Improving PySpark and Databricks development practices
+* Studying traditional machine learning foundations
+* Exploring AI agents, memory systems, and RAG workflows
+* Building local-first automation and embedded-system prototypes
+* Writing clearer technical documentation in English and Japanese
+
+---
+
+## Learning Areas
+
+* Data pipeline quality and regression testing
+* Dashboard-oriented data modeling
+* Edge AI and offline-first deployment
+* AI agent architecture and memory design
+* Embedded systems integration
+* Technical writing for mixed audiences
+
+---
+
+## Professional Interests
+
+I am interested in technology that helps people understand information, make better decisions, and interact with systems more naturally.
+
+My long-term interest is in building practical AI and data systems that are not only technically capable, but also reliable, ethical, and understandable.
+
+---
+
+## Contact
+
+* Email: [maril_flores@outlook.com](mailto:maril_flores@outlook.com)
+* GitHub Repositories: [github.com/masakaneko](https://github.com/masakaneko?tab=repositories)
+
+---
+
+This profile is updated as my work, projects, and learning areas develop.
+
+Profile text refined with AI assistance.
